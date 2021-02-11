@@ -1,5 +1,4 @@
-# Backend MERN - Calendar
+# CalendarApp
 
-Backend que creamos en mi curso de React: de cero a experto
-
-fernando-herrera.com
+Aplicación realizada con el stack MERN. En enlace de la apliación desplegada es el siguiente:
+https://appcalendarx.herokuapp.com/login
